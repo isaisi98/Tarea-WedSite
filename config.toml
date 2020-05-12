@@ -1,0 +1,40 @@
+#
+# Configuración básica del sitio Web
+#
+title = "TECNOLOGIA WEB" # Titulo de la pagina
+baseURL = "https://github.com/isaisi98" # Enlace de entreda
+languageCode = "en-es" # idioma local
+theme = "gohugo-theme-ananke" # llamado a los temas /ruta
+# themesDir = "../.."
+##
+MetaDataFormat = "yaml" # Formato Cabecera
+DefaultContentLanguage = "es" # Idioma por defecto del contenido
+SectionPagesMenu = "main" # Menu
+Paginate = 3 # Posts por pagina en el main
+googleAnalytics = "" # Codigo para estadistica Web
+enableRobotsTXT = true # Buscador
+#
+#Configuracion del mapa de la Web
+#
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
+
+[params]
+  favicon = ""
+  description = "ESPOL-MSIG-PARALELO 2"
+  facebook = ""
+  twitter = "https://twitter.com/GoHugoIO"
+  instagram = ""
+  youtube = ""
+  github = ""
+  gitlab = ""
+  linkedin = ""
+  mastodon = ""
+  slack = ""
+  stackoverflow = ""
+  # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
+  background_color_class = "bg-black"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  recent_posts_number = 2
