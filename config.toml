@@ -2,7 +2,7 @@
 # Configuración básica del sitio Web
 #
 title = "TECNOLOGIA WEB" # Titulo de la pagina
-baseURL = "https://isaisi98.github.io/Tarea-WedSite/" # Enlace de entreda
+baseURL = "https://github.com/isaisi98" # Enlace de entreda
 languageCode = "en-es" # idioma local
 theme = "gohugo-theme-ananke" # llamado a los temas /ruta
 # themesDir = "../.."
