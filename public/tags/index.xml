@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on TECNOLOGIA WEB</title>
-    <link>https://github.com/isaisi98/tags/</link>
+    <link>https://isaisi98.github.io/Tarea-WedSite/tags/</link>
     <description>Recent content in Tags on TECNOLOGIA WEB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-es</language>
     <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
     
-	<atom:link href="https://github.com/isaisi98/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://isaisi98.github.io/Tarea-WedSite/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>scene</title>
-      <link>https://github.com/isaisi98/tags/scene/</link>
+      <link>https://isaisi98.github.io/Tarea-WedSite/tags/scene/</link>
       <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
       
-      <guid>https://github.com/isaisi98/tags/scene/</guid>
+      <guid>https://isaisi98.github.io/Tarea-WedSite/tags/scene/</guid>
       <description></description>
     </item>
     
